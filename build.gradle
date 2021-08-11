@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'war'
+    id 'org.springframework.boot' version '2.1.2.RELEASE'
+
+}
+
+apply plugin: 'io.spring.dependency-management'
+
+group 'ua.lviv.lgs'
+version '1.0-SNAPSHOT'
+sourceCompatibility = '1.8'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter'
+}
+

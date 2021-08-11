@@ -1,0 +1,12 @@
+ua/lviv/lgs/domain/Student.java
+ ua.lviv.lgs.domain.Student
+ua/lviv/lgs/shared/AbstractCRUD.java
+ ua.lviv.lgs.shared.AbstractCRUD
+ua/lviv/lgs/dao/StudentDao.java
+ ua.lviv.lgs.dao.StudentDao
+ua/lviv/lgs/Application.java
+ ua.lviv.lgs.Application
+ua/lviv/lgs/CustomConfiguration.java
+ ua.lviv.lgs.CustomConfiguration
+ua/lviv/lgs/dao/impl/StudentDaoImpl.java
+ ua.lviv.lgs.dao.impl.StudentDaoImpl
